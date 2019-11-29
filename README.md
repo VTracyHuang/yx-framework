@@ -127,7 +127,6 @@ yx-framework ............................................ yx信息架构
      ## 预览图
      
    ![预览图](doc/images/login.png)
-   ![预览图](doc/images/login.png)
    ![预览图](doc/images/index.png)
    ![预览图](doc/images/menu.png)
    ![预览图](doc/images/user.png)
