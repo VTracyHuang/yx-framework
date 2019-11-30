@@ -123,6 +123,15 @@ yx-framework ............................................ yx信息架构
       8. 访问地址：http://localhost 帐户密码：admin/123456
       9. swagger地址：http://localhost:8089/swagger-ui.html
      10. 文件上传、邮件推送，邮件发送，短信发送等工具类可能不可用，需要将自己申请的accessKeyId，accessKeySecret配置到参数表中（sys_param）方可正常使用
+   
+     ## 项目演示
+        ● 演示地址： http://134.175.157.186/
+        ● 账号、密码：test/123456
+     
+     
+     说明：演示环境会慢慢完善、sql文件将在最近几天提交，请大家多多关注，帮忙点下star
+        
+        
          
      ## 预览图
      
