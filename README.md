@@ -130,7 +130,8 @@ yx-framework ............................................ yx信息架构
      
      
      说明：演示环境会慢慢完善、sql文件将在最近几天提交，请大家多多关注，帮忙点下star
-        
+     QQ群：977482984
+   [扫码入群](doc/images/qq.jpg)   
         
          
      ## 预览图
@@ -143,6 +144,8 @@ yx-framework ............................................ yx信息架构
    ![预览图](doc/images/job.png)
    ![预览图](doc/images/druid.png)
    ![预览图](doc/images/swagger.png)
+   ![预览图](doc/images/dubboAdmin1.png)
+   ![预览图](doc/images/dubboAdmin2.png)
      
          
      ## 版权声明
