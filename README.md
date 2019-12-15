@@ -59,6 +59,13 @@ yx-framework ............................................ yx信息架构
          3、启动服务调用方，运行每个-server工程下的serverApplication的main方法，即可启动相关服务
          
          
+     ## 核心技术图
+  ![预览图](doc/images/jiagou-hx.png)
+     
+     ## 基础架构图
+  ![预览图](doc/images/jiagou-jc.png) 
+         
+         
      ## 项目简介
      - yx-framework是Java语言的分布式系统架构。 使用SpringBoot整合开源框架。
      - 作者根据自己的工作经历将架子抽离出来，方便二次开发，大家可以根据自己的业务去扩展架构；
